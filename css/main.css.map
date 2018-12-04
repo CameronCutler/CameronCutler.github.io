@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,OAAQ,CACN,UAAU,CAAE,MAAM,CAEpB,UAAW,CACT,UAAU,CAAE,IAAI,CAGlB,aAAc,CACZ,OAAO,CAAE,YAAY,CACrB,WAAW,CAAE,IAAI,CAGnB,eAAgB,CACd,wBAAwB,CAAE,IAAI,CAC9B,OAAO,CAAE,WAAW,CACpB,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,IAAI,CACf,OAAO,CAAE,KAAK,CACd,UAAU,CAAE,qBAAqB,CACjC,eAAe,CAAE,gBAAgB,CACjC,aAAa,CAAE,gBAAgB,CAC/B,kBAAkB,CAAE,gBAAgB,CACpC,UAAU,CAAE,gBAAgB,CAC5B,OAAO,CAAE,EAAE,CCvBb,QAAS,CACP,gBAAgB,CAAE,OAAO,CACzB,gBAAgB,CAAE,sEAAsE",
+"sources": ["sass/partials/_navbar.scss","sass/partials/_background.scss"],
 "names": [],
 "file": "main.css"
 }
